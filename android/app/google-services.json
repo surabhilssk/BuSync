@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388818401538",
+    "project_id": "busync-6b784",
+    "storage_bucket": "busync-6b784.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388818401538:android:dfead03d0e020fd720ea1b",
+        "android_client_info": {
+          "package_name": "com.example.busync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu0R_6icsVmZ2tFzpYYuU6Te6R2bCTnB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
